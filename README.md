@@ -6,7 +6,7 @@ Please see the pdf included in this repository for a detailed report of this moc
 
 ## Development Details:
 
-- **Language:** JSP (HTML & Java)
+- **Language:** HTML, Java
 - **Completion Date:** December 2023
 
 
