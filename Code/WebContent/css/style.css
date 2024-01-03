@@ -1,0 +1,8 @@
+/* Set the font color to black for all elements */
+* {
+    color: black !important;
+}
+
+*:visited {
+    color: black;
+}
